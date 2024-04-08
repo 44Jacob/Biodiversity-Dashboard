@@ -2,7 +2,7 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Website: 
-[website](www.goldenlightrealty.com)
+[website]([www.goldenlightrealty.com](https://44jacob.github.io/belly-button-challenge/))
 
 ## Description
 Displays biodiversity info on the dasbord
