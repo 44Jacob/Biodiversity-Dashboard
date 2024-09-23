@@ -5,7 +5,7 @@
 [website](https://44jacob.github.io/belly-button-challenge/)
 
 ## Description
-Displays biodiversity info on the dasbord
+Application provides a dashboard with specific subject information which is displayed in different charts
 
 ![app_image](Images/hw02.png)
 
